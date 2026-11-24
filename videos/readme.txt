@@ -1,0 +1,1 @@
+HeyGen-нен дайын MP4 бейнеңді осы бумаға avatar.mp4 атауымен сақта. Сайттың басты бетіне видеоны қосу үшін index.html ішіндегі video-placeholder блогын <video controls src='videos/avatar.mp4'></video> элементімен ауыстыр.
